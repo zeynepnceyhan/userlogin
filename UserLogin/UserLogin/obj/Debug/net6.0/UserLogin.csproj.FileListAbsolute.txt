@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.exe
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.deps.json
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.runtimeconfig.json
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.dll
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\bin\Debug\net6.0\UserLogin.pdb
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.dll
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\refint\UserLogin.dll
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.pdb
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\UserLogin.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\UserLogin\UserLogin\obj\Debug\net6.0\ref\UserLogin.dll
